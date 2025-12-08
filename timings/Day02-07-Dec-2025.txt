@@ -1,0 +1,11 @@
+Things I cover today:
+kubernetes 3 hr 
+Azure 2hr
+coding 1 hr
+Reading 1 hr
+total time 7 hr 
+ 
+Things I will do tomorrow 
+Argo coding
+Helm
+Intro

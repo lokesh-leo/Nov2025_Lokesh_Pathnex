@@ -1,0 +1,11 @@
+Things I cover today:
+Argo coding 2 hr
+Helm 1 hr
+Intro 30 min
+coding 1 hr
+Reading 1 hr
+total time 5 hr 30 min 
+ 
+Things I will do tomorrow 
+Terraform
+coding
