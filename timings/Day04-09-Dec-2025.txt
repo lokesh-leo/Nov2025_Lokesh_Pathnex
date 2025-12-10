@@ -1,0 +1,10 @@
+Things I cover today:
+day 4 coding 2 hr
+terraform 3 hr
+Reading 1 hr
+total time 6 hr 
+ 
+Things I will do tomorrow 
+terraform
+ansible
+intro

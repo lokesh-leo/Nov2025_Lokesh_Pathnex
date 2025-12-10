@@ -1,0 +1,10 @@
+Things I cover today:
+day 5 coding 1 hr 30 min
+terraform 2 hr 30 min
+Intro 45 min
+total time 4 hr 45 min
+ 
+Things I will do tomorrow 
+terraform
+ansible
+intro
