@@ -1,0 +1,14 @@
+Things I cover today:
+day 6 coding 1 hr 30 min
+terraform 1 hr 
+ansible 1 hr
+reading 1 hr
+sre  elk 1  30 hr
+total time 6 hr
+ 
+Things I will do tomorrow 
+ci cd pipene
+datadog
+kafka
+ssl certificate
+intro
