@@ -1,0 +1,15 @@
+Things I cover today:
+ci cd pipene 1hr 30 mins
+datadog 1 hr
+kafka 1 hr
+ssl certificate 1 hr
+SRE 1 hr
+intro 30 mins
+day 7 coding 1 hr
+total time 7 hr 
+
+Things I will do tomorrow 
+pipeline
+secrity tools
+total revision
+coding
