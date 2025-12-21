@@ -1,0 +1,12 @@
+Things I cover today:
+pipeline 2 hrs
+security tools 2 hrs
+total revision 4 hrs
+coding 1 hr
+total 9 hr
+
+Things I will do tomorrow 
+revision of linux 
+git
+aws
+coding
