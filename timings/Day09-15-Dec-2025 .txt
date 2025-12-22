@@ -1,0 +1,12 @@
+Things I cover today:
+revision of linux 2 hrs
+git 1.5 hr
+aws 2 hr
+coding 1.5 hr
+reading 30 mins
+total 7 hr 30 mins
+
+Things I will do tomorrow 
+docker
+kubernetes
+coding
