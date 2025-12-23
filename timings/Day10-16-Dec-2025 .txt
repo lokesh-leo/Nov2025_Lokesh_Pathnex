@@ -1,0 +1,11 @@
+Things I cover today:
+docker 2 hr
+kubernetes 2 hr
+coding 1.5 hr
+reading 30 mins
+total 6 hrs
+
+Things I will do tomorrow 
+helm
+argocd
+terraform
