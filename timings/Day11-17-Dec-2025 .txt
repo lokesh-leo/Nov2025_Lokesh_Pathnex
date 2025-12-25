@@ -1,0 +1,10 @@
+Things I cover today:
+helm 2 hrs
+argocd 1 hr
+terraform 3 hrs
+total 6 hrs
+
+Things I will do tomorrow 
+ansible
+cicd
+datadog
